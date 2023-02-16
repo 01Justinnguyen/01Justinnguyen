@@ -8,6 +8,12 @@
     <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
+<h2></h2><br>
+
+<p align="center"> 
+  <img src="./images/nightlife.gif" alt="Lofi Nightlight scene" /> 
+</p>
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
