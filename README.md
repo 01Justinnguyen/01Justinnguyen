@@ -2,7 +2,7 @@
 <!-- <a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="liam" />
 </a> -->
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Hyun+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Liam Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Liam+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Liam Welcome to my Profile! animated typed out">
 <img  src="./images/borderseperator.gif">
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=01Justinnguyen&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
@@ -14,7 +14,7 @@
   <img src="./images/nightlife.gif" alt="Lofi Nightlight scene" /> 
 </p>
 
-<h2></h2><br>
+<br>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
