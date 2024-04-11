@@ -45,7 +45,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=#52b0e7" alt="Sequelize logo" title="Sequelize" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=#02afef" alt="Sequelize logo" title="Sequelize" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
