@@ -49,6 +49,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=#02afef" alt="Sequelize logo" title="Sequelize" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=#000" alt="Prisma logo" title="Prisma" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
