@@ -45,7 +45,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/swagger-282C34?logo=swagger&logoColor=#85ea2d" alt="Swagger logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=#85ea2d" alt="Swagger logo" title="Swagger" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=#02afef" alt="Sequelize logo" title="Sequelize" height="25" /></span>
 &nbsp;
