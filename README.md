@@ -96,14 +96,17 @@
   <a href="mailto:phuc01112002@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Liamnguyen-email" />
   </a>
+
+
+  <h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<a href="#" target="_blank">
+  <img src="svg/liam.svg" width="846" height="150" alt="trungquandev-official" />
+</a>
   
 </div>
 
 <br>
 
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/liam.svg" width="846" height="150" alt="trungquandev-official" />
-</a>
+
