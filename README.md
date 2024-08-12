@@ -55,6 +55,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Fastify-282C34?logo=fastify&logoColor=#fff" alt="Fastify logo" title="Fastify" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Prettier-282C34?logo=prettier&logoColor=#52b0e7" alt="MongoDB logo" title="MongoDB" height="25" /></span>
